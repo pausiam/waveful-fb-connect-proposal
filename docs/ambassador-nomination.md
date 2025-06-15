@@ -1,7 +1,7 @@
 # 🌟 Waveful Ambassador Nomination
 
 **Nominee**: Zualisz  
-**GitHub Username**: Sz  
+**GitHub Username**: pausiam  
 **Nominated by**: Sz  
 **Date**: June 2025
 
@@ -24,4 +24,4 @@ As an ambassador, Zualisz will:
 
 ---
 > 💬 “I believe in platforms that celebrate originality and give artists a true voice.” – Zualisz
-> Add ambassador-nomination.md
+> ambassador-nomination.md

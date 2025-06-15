@@ -1,5 +1,6 @@
-# waveful-fb-connect-proposal
+# Waveful Facebook Connect Proposal
 
-This repository outlines a proposed Facebook integration feature for the Waveful app. It includes a technical feature overview and an ambassador nomination to support a community driven initiative that highlights creativity, connectivity, and growth on the platform.
-[Feature Overview](https://github.com/pausiam/waveful-fb-connect-proposal/blob/main/docs/feature-overview.md)
-[Ambassador Nomination](https://github.com/pausiam/waveful-fb-connect-proposal/blob/main/docs/ambassador-nomination.md)
+This repository presents a feature proposal for the [Waveful](https://github.com/Waveful) app — integrating Facebook login and content sharing functionality. It also includes a nomination for Zualisz to become a Waveful Ambassador, celebrating creative community leadership.
+
+📄 [View Feature Overview](./docs/feature-overview.md)  
+🏅 [Ambassador Nomination](./docs/ambassador-nomination.md)

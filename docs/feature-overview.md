@@ -18,4 +18,4 @@ Allow users to link their Waveful account to Facebook to:
 
 ---
 
-*Created by: @Sz in support of [@Zualisz] for Waveful Ambassador*
+*Created by: @Sz in support of @Zualisz for Waveful Ambassador*
